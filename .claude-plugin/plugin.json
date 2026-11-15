@@ -1,1 +1,1 @@
-{ "name": "usage-bars", "version": "0.2.0", "description": "Painel lateral com as barras de uso (5h, 7 dias, contexto) em %, configurável", "types": "./types/index.d.ts" }
+{ "name": "usage-bars", "version": "0.3.0", "description": "Painel lateral com as barras de uso (5h, 7 dias, contexto) em %, configurável", "types": "./types/index.d.ts" }

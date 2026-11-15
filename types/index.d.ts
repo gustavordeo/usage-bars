@@ -8,6 +8,7 @@ export type UsageSettings = {
   showBars: boolean
   opacity: number
   barWidth: number
+  textColor: string
 }
 
 declare module 'claude-code' {
